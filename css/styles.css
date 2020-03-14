@@ -1,0 +1,177 @@
+.first-page{
+
+background-color: #474343;
+color: white;
+
+}
+
+
+.navbar{
+
+margin: 0;
+width: 100%;
+
+}
+
+.alignment{
+  text-align: center;
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 100px;
+  color: white;
+}
+
+.alingment-only{
+  text-align: center;
+  align-items: center;
+
+
+
+}
+.text{
+
+align-items: center;
+
+
+}
+
+.firstbtn{
+  padding-left: 30px;
+}
+
+
+.column{
+  float: left;
+    width: 25%;
+    padding: 0 10px;
+
+}
+.row {margin: 0 -5px;}
+
+
+.row{
+padding-left: 400px;
+padding-right: -400px;
+padding-bottom: 200px;
+}
+.btmpadding{
+
+
+  padding-bottom: 300px
+}
+
+
+
+h2:hover{
+color: yellow;
+
+
+
+
+
+}
+
+
+
+
+.heading-padding{
+
+padding-top: 100px;
+padding-left: 50px;
+padding-bottom: 40px;
+
+
+
+}
+.container-fluid{
+
+  width: 100%;
+  white-space: nowrap;
+
+}
+
+
+
+
+.image-resize{
+width: 600px;
+height: 550px;
+padding-bottom: 75px;
+
+
+
+
+
+
+}
+
+.resume-resize{
+  width: 600px;
+  height:780px;
+  text-align: center;
+  padding-bottom: 70px;
+
+
+
+}
+
+
+
+
+.td-padding{
+
+
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+
+}
+
+.image2{
+width: 100%;
+height: 900px;
+padding-bottom: 100px;
+
+
+
+}
+.centered {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+
+
+.fontchange{
+
+font-family: 'Montserrat', sans-serif;
+
+}
+
+
+.td-padding2{
+
+
+  padding-left: 180px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-right: -180px;
+
+
+}
+
+.centered2{
+  text-align:  center;
+  position: absolute;
+  top: 1100px;
+  left: 400px;
+  color: black;
+
+}
+
+
+/* Style the image inside the centered container, if needed */
